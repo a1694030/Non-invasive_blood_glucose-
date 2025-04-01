@@ -179,10 +179,10 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- 标题和说明 ---
-st.markdown('<div class="header">❤️ 心盾预测 - 临床级心脏病风险评估系统</div>', unsafe_allow_html=True)
+st.markdown('<div class="header">❤️ 无创血糖预测系统</div>', unsafe_allow_html=True)
 st.markdown("""
 <div style="color: #616161; font-size: 14px;">
-本系统基于机器学习模型，根据Framingham心脏研究标准开发，用于评估10年冠心病发病风险。
+本系统基于机器学习模型，根据Framingham心脏研究标准开发，用于评估糖尿病发病风险。
 </div>
 """, unsafe_allow_html=True)
 st.markdown('<div class="divider"></div>', unsafe_allow_html=True)
