@@ -141,7 +141,7 @@ plt.rcParams['axes.unicode_minus'] = False
 
 # --- 页面配置 ---
 st.set_page_config(
-    page_title="心盾预测 - 心脏病风险评估系统",
+    page_title="无创血糖预测系统",
     page_icon="❤️",
     layout="wide"
 )
